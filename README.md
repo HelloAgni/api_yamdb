@@ -89,10 +89,6 @@ python api_yamdb/manage.py runserver
 
 Затем можно выполнять API-запросы к проекту.
 
-## Планы<div id="todo"></div>
-
-- *Есть ли у нас планы???*
-
 ## Использованные средства и технологии<div id="tools_and_techs"></div>
 
 - [Python](https://www.python.org/)
